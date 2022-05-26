@@ -1,2 +1,0 @@
-#!/bin/bash
-chown --exfrom=guillaume betty hello
